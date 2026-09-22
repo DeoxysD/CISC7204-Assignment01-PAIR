@@ -1,0 +1,25 @@
+CISC7204 Project Proposal Ideation
+Completion requirements
+Preliminary Project Proposal - Ideation
+
+The best way to learn about data science is to work on a project you are interested in. Is there a question like, “Do first babies arrive late,” that you want to investigate?
+
+Think about questions you find personally interesting, or items of conventional wisdom, or controversial topics, or questions that have political consequences, and see if you can formulate a question that lends itself to statistical inquiry.
+
+Look for data to help you address the question. Governments are good sources because data from public research is often freely available. Good places to start include http://www.data.gov/, and http://www.science.gov/, and in the United Kingdom, http://data.gov.uk/.
+
+Two of the favorite data sets are the General Social Survey at http://www3.norc.org/gss+website/, and the European Social Survey at http://www.europeansocialsurvey.org/.
+
+If it seems like someone has already answered your question, look closely to see whether the answer is justified. There might be flaws in the data or the analysis that make the conclusion unreliable. In that case you could perform a different analysis of the same data, or look for a better source of data.
+
+If you find a published paper that addresses your question, you should be able to get the raw data. Many authors make their data available on the web, but for sensitive data you might have to write to the authors, provide information about how you plan to use the data, or agree to certain terms of use. Be persistent!
+
+Requirements
+
+You must state the region and the domain category that your data sets are about (e.g., Ann Arbor, Michigan, United States and sports or athletics).
+You must state a question about the domain category and region that you identified as being interesting.
+You must provide at least two links to available datasets. These could be links to files such as CSV or Excel files, or links to websites which might have data in tabular form, such as Wikipedia pages.
+OPTIONAL: You may upload an image which addresses the research question you stated. 
+You must contribute a short (1-2 paragraph) written justification of how your visualization addresses your stated research question.
+OPTIONAL: You may provide the Jupyter Notebook file (.ipynb) with Python 3 coding to verify your work (visual produced) with the related datasets.
+Your must provide the essential information of your proposal based on the project guideline indicated.

@@ -1,12 +1,11 @@
 # CISC7204 — Crime and House Prices in London Boroughs
 
-课堂 proposal 用的小项目，不是 Kaggle 竞赛刷榜。
+课堂 proposal 用的小项目
 
 **问题：** In London, United Kingdom, do boroughs with higher recorded crime have lower average house prices?
 
 **结论（描述性）：** 2016–2018 年 32 个 borough 上，犯罪率与均价的 Spearman ρ = **0.47**（p ≈ 0.007），方向与「犯罪高则房价低」相反。
 
-## 交作业时主要用这些
 
 | 文件 | 用途 |
 |---|---|

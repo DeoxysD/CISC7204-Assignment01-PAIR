@@ -1,5 +1,7 @@
 # PAIR 课程：数据处理流程总结
 
+**FANZIQIAN** (Ziqian Fan) · MC63582 · CISC7204 Class A · Assignment 01
+
 这门课（IBM Data Analysis with Python / CISC7204–CISC3015）用 **12 个 notebook** 走完同一套分析流水线。  
 核心不是“换数据集”，而是反复练习：**读入 → 清洗 → 探索 → 建模 → 评估**。
 
